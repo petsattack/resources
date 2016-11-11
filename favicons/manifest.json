@@ -1,5 +1,5 @@
 {
-	"name": "Pets Attack Game",
+	"name": "Pets Attack",
 	"icons": [
 		{
 			"src": "https:\/\/raw.githubusercontent.com\/petsattack\/resources\/master\/favicons\/android-chrome-192x192.png",
@@ -7,6 +7,7 @@
 			"type": "image\/png"
 		}
 	],
-	"theme_color": "#ffffff",
+	"theme_color": "#b52335",
+	"start_url": "http:\/\/petsattack.com\/",
 	"display": "standalone"
 }
