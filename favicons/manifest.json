@@ -1,5 +1,6 @@
 {
-	"name": "Pets Attack",
+	"name": "Pets Attack Game",
+	"gcm_sender_id": "304304694885",
 	"icons": [
 		{
 			"src": "https:\/\/raw.githubusercontent.com\/petsattack\/resources\/master\/favicons\/android-chrome-36x36.png",
@@ -48,6 +49,7 @@
 		}
 	],
 	"theme_color": "#ffffff",
-	"start_url": "http:\/\/petsattack.com\/",
+	"start_url": "https:\/\/petsattack.com\/",
+	"url": "https:\/\/petsattack.com\/",
 	"display": "standalone"
 }
