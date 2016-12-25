@@ -56,8 +56,8 @@
     "platform": "play",
     "url": "https://play.google.com/store/apps/details?id=com.petsattack.android&hl=en"
 		}],
-	"theme_color": "#536878",
-	"background_color": "#000",
+	"theme_color": "#b91d47",
+	"background_color": "#b91d47",
 	"url": "https:\/\/petsattack.com\/",
 	"start_url": "https:\/\/petsattack.com\/",
 	"display": "fullscreen"
